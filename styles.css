@@ -1,0 +1,24 @@
+
+
+.container{
+    height: 100%;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+
+.col-3{
+    /* height: 100px; */
+    /* width: 100px; */
+    /* background-color: red; */
+     margin: 20px;
+}
+
+
+
+.row{
+
+    justify-content: center;
+    text-align: center;
+}
